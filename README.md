@@ -1,3 +1,3 @@
 # First-repo-prestashop
-Dev thèmes Prestashop 
+Dev Prestashop 
 Création module prestashop
